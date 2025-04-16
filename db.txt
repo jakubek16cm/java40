@@ -7,3 +7,5 @@ Janusz 40
 Krzysztof 20
 Janusz 40
 kuba 12
+kuba 12
+jarek 11
