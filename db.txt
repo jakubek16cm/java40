@@ -9,3 +9,6 @@ Janusz 40
 kuba 12
 kuba 12
 jarek 11
+wiktor 16
+9 12
+Kacper 7
